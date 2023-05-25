@@ -1,12 +1,25 @@
-Hi I'm Hammad Khattak hi
-I'm Hammad Khattak, a Front end Web Developer. I Spend most of time coding outstanding projects.
+Hi, I am a Software developer, I have work experience in the following tech.
 
-🔭 I’m currently working as a freelance front end web developer
-📫 How to reach me: ihammad.khattak@gmail.com
-⚡ Fun fact: I read books and like to spend time outdoors in the nature.
-🌱 I’m currently learning Node.js...
-👯 I’m looking to collaborate on projects, to work with a team and to learn new things, because learning never stops ... -.
-Top Technologies
-So far I have following technologies under my belt.
+Full Stack Mobile App Development:
+React Native - (Node.js backend)
+React-native-paper (UI Framework)
 
-React Badge [Javascript Badge] Bootstrap Chakra jQuery NPM React Router TailwindCSS CSS3 MUI Firebase Ant-Design
+Full-stack web development.
+Front-end 
+JavaScript/TypeScript
+jQuery, React. 
+Tailwind CSS, Bootstrap, Ant Design , Material UI
+Full stack Framework - Next.js 
+Global State Management - React Redux -Toolkit / React Context
+
+Back-end
+Node.js , Express.js
+JWT(JSON WEB TOKENS) Authorization Mechanism
+Database - MongoDB/Mongoose
+API Integration
+
+Web Sockets 
+socket.io (JS library for real-time data transfer)
+
+Good working experience with MERN stack /Next.js and Mobile app development.
+
